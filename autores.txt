@@ -1,2 +1,4 @@
 Alfredo Sánchez Alberca (asalber@ceu.es)
 
+Nombre: Tu Nombre\nCorreo: tu-correo@example.com
+Nombre: Anthony\nCorreo: anthony230497@gmail.com
